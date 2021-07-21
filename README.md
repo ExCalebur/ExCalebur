@@ -7,7 +7,7 @@ I've organized my profile into several sections:
   - these are completed projects that I've built
 - Categorized Organizations
   - [Learning](https://github.com/ExCalebur-learning)
-    - repos for learning specific subjects
+    - repos for learning specific subjects or previous school assignments
   - [Working](https://github.com/ExCalebur-working)
     - un-finished projects destined for my main page
   - [Forks](https://github.com/ExCalebur-forks)
