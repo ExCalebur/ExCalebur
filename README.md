@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi, I'm Calen! :wave:
 
-<!--
-**ExCalebur/ExCalebur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm looking to start a new career in Software Engineering and want to learn anything I can.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've organized my profile into several sections:
+- My [main profile repos](https://github.com/ExCalebur?tab=repositories)
+  - these are completed projects that I've built
+- Categorized Organizations
+  - [Learning](https://github.com/ExCalebur-learning)
+    - repos for learning specific subjects
+  - [Working](https://github.com/ExCalebur-working)
+    - un-finished projects destined for my main page
+  - [Forks](https://github.com/ExCalebur-forks)
+    - forked repos used to reference or experiment
